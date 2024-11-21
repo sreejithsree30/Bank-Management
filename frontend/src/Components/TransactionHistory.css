@@ -1,0 +1,31 @@
+.transaction-history {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 400px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+  }
+  
+  .transaction {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #ffffff;
+  }
+  
+
+  .transaction-history {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .card {
+    margin-bottom: 15px;
+  }
+  

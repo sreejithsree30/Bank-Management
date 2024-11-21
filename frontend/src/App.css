@@ -1,0 +1,46 @@
+body {
+  background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1, h2 {
+  text-align: center;
+  color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.nav-pills .nav-link {
+  
+  color: #333;
+}
+
+.nav-pills .nav-link.active {
+  background-color: #fda085;
+}
+
+.form-control {
+  border: 1px solid #fda085;
+}
+
+.btn {
+  background-color: #fda085;
+  border-color: #fda085;
+}
+
+.btn-primary:hover {
+  background-color: #f6d365;
+  border-color: #f6d365;
+}
+
+

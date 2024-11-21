@@ -1,0 +1,29 @@
+.create-transaction {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+  }
+  
+  .create-transaction input,
+  .create-transaction button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+    color: white;
+    cursor: pointer;
+  }
+
+
+  .create-transaction button:hover {
+    background-color: #218838;
+  }
+  
+  
